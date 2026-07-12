@@ -88,7 +88,8 @@ cooling-shampoo-analysis
 ├── 01_prod_review_crawling.ipynb
 ├── 02_prod_analysis.ipynb
 ├── 03_review_analysis.ipynb
-└── 04_merged_insight_analysis.ipynb
+├── 04_review_text_analysis.ipynb
+└── 05_integrated_marketing_analysis.ipynb
 ```
 
 ---
